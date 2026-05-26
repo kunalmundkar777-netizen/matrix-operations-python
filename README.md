@@ -34,4 +34,4 @@ It is a menu-driven Python application implementing important linear algebra con
 ---
 
 ## Author
-Kunal Jaydas Mhunkar
+Kunal Jaydas Mundkar
